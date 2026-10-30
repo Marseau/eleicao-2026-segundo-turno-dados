@@ -7,7 +7,7 @@ Qualquer pessoa pode rodar e conferir cada número do post. Se achar erro, apont
 
 ```
 pacote_post_2026/
-  (post: a ser publicado; não incluído nesta versão do repositório)
+  post.md                          o post (versão publicada)
   README.md                        este arquivo
   dados/
     secoes_2026_1t_2t.csv          497.897 seções: votos, comparecimento, branco/nulo nos 2 turnos (42 MB)
